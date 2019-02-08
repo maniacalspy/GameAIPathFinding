@@ -1,0 +1,14 @@
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.exe.config
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.exe
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.pdb
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.csprojAssemblyReference.cache
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.csproj.CoreCompileInputs.cache
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.exe
+C:\Users\nolan.roher\source\repos\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.pdb
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.exe.config
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.exe
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\bin\Debug\GameAIPathfinding.pdb
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.csprojAssemblyReference.cache
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.csproj.CoreCompileInputs.cache
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.exe
+C:\Users\nolan\Desktop\GameAIPathfinding\GameAIPathfinding\GameAIPathfinding\obj\Debug\GameAIPathfinding.pdb
